@@ -11,3 +11,7 @@
 - [reading1](reading-1.md)
 - [reading2](reading-2.md)
 - [reading3](reading-3.md)
+- [reading4](reading-4.md)
+- [reading5](reading-5.md)
+- [reading6](reading-6.md)
+
