@@ -8,3 +8,4 @@
 - Tracking changes
 - loss of Data
 - States, three different states: committed, modified, and staged.
+- [Back To Main](README.md)
