@@ -1,4 +1,7 @@
-# Growth mindset
+# Code 102 reading notes
+
+## Growth mindset
+
 **Growth mindset is allowing your brain to gain knowledge and learn new skills that can create new talents by sheer will.**
 ## How to keep a growth mindset
 - *look for new ways to think about the problem*
@@ -7,7 +10,8 @@
 
 ***My name is Kyrillos Khalil (he/him) my [github portfolio](https://github.com/kerok2991)***
 
-## Table of contents ##
+## Table of contents 
+
 - [reading1](reading-1.md)
 - [reading2](reading-2.md)
 - [reading3](reading-3.md)
@@ -16,3 +20,24 @@
 - [reading6](reading-6.md)
 - [reading7](reading-7.md)
 - [reading8](reading-8.md)
+
+## Code 201 reading notes
+
+## Table of contents
+
+- [reading1](reading201-1.md)
+- [reading2](reading201-2.md)
+- [reading3](reading201-3.md)
+- [reading1](reading201-4.md)
+- [reading1](reading201-5.md)
+- [reading1](reading201-6.md)
+- [reading1](reading201-7.md)
+- [reading1](reading201-8.md)
+- [reading1](reading201-9.md)
+- [reading1](reading201-10.md)
+- [reading1](reading201-11.md)
+- [reading1](reading201-12.md)
+- [reading1](reading201-13.md)
+- [reading1](reading201-14.md)
+- [reading1](reading201-15.md)
+
